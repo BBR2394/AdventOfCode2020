@@ -3,7 +3,6 @@
 
 import sys
 
-
 def checkPasswordRule(line):
     if len(line) == 0:
         return False
